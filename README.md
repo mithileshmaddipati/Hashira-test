@@ -1,4 +1,4 @@
-# Hashira Placements Assignment — Shamir Secret Sharing (Java)
+# Hashira Placements Assignment — Polynomial Solver(Java)
 
 This repository contains a Java solution for reconstructing the secret (f(0)) from Shamir's Secret Sharing points provided in JSON format.
 
@@ -53,7 +53,3 @@ Outputs:
 ## Notes
 - If you need classic Shamir behavior over a finite field, we can add modular arithmetic with a chosen prime and compute all operations mod p.
 - The JSON is parsed with regex for simplicity since the format is constrained; using a JSON library would be more robust for arbitrary input.
-
-## Repository link
-
-https://github.com/Nagasurya07/repost

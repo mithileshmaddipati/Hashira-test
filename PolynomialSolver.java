@@ -3,7 +3,7 @@ import java.math.BigInteger;
 import java.util.*;
 import java.util.regex.*;
 
-public class ShamirSecretSharing {
+public class PolynomialSolver {
 
 	public static class Point {
 		public BigInteger x;
